@@ -2,19 +2,21 @@
 ---
 ![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=OH,%20Hi🙋🏻&height=150&fontSize=60&desc=I'm%20Geun&descAlignY=75&descAlign=60)
 
-<center>
+
 
 ---
-
+<center>
 <h3 dir="auto">Contact</h3>
 
 <a href="mailto:jgk9612@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 <a href="https://geuun.github.io/" target="_blank"><img src="https://img.shields.io/badge/Gitblog-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 <a href="https://geuun.notion.site/About-Geun-5ee9dd329d524b63b5136468bc9300e2" target="_blank"><img src="https://img.shields.io/badge/Notion Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 <a href="https://www.instagram.com/geuuuuuun/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+</center>
 
 ---
 
+<center>
 <h3 dir="auto">⚙️ Tech Stack ⚙️</h3>
 
 <!--Language-->
