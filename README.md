@@ -5,18 +5,19 @@
 
 
 ---
-<center>
+
+<div align="center">
+
 <h3 dir="auto">Contact</h3>
 
 <a href="mailto:jgk9612@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 <a href="https://geuun.github.io/" target="_blank"><img src="https://img.shields.io/badge/Gitblog-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 <a href="https://geuun.notion.site/About-Geun-5ee9dd329d524b63b5136468bc9300e2" target="_blank"><img src="https://img.shields.io/badge/Notion Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 <a href="https://www.instagram.com/geuuuuuun/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-</center>
 
 ---
 
-<center>
+
 <h3 dir="auto">⚙️ Tech Stack ⚙️</h3>
 
 <!--Language-->
@@ -48,6 +49,7 @@
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/></a>
-</center>
+
+</div>
 
 ---
