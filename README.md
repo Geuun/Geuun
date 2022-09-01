@@ -41,8 +41,12 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MySQL&logoColor=white"/></a>
 
-<!--DevOps Collaboration Tools-->
-<h4 dir="auto">DevOps/Collaboration Tools</h4>
+<!--DevOps-->
+<h4 dir="auto">DevOps</h4>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
+
+<!--Collaboration Tools-->
+<h4 dir="auto">Collaboration Tools</h4>
 
 <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=Vim&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>  
