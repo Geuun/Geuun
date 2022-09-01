@@ -34,10 +34,12 @@
 <h4 dir="auto">Backend</h4>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Flask&logoColor=white"/></a>
 
 <!--DataBase End-->
 <h4 dir="auto">DataBase</h4>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MySQL&logoColor=white"/></a>
 
 <!--DevOps Collaboration Tools-->
 <h4 dir="auto">DevOps/Collaboration Tools</h4>
