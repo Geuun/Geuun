@@ -1,4 +1,3 @@
-
 ---
 ![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=OH,%20Hi🙋🏻&height=150&fontSize=60&desc=I'm%20Geun&descAlignY=75&descAlign=60)
 
@@ -17,23 +16,22 @@
 
 ---
 
-
-<h3 dir="auto">⚙️ Tech Stack ⚙️</h3>
+<h3 dir="auto">⚙️ Studied Tech Stack ⚙️</h3>
 
 <!--Language-->
-<h4 dir="auto">Language</h4>
+<h4 dir="auto">Languages</h4>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-
-<!--Frontend-->
-<h4 dir="auto">Frontend</h4>
-<img src="https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html5&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 
+<!--Frontend-->
+<!-- <h4 dir="auto">Frontend</h4>
+<img src="https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html5&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> -->
+
 <!--Backend-->
-<h4 dir="auto">Backend</h4>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a>
+<h4 dir="auto">Framework</h4>
+<!-- <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a> -->
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
 
 <!--DataBase End-->
