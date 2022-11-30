@@ -65,10 +65,6 @@
 <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
----
-
-![geun's github stats](https://github-readme-stats.vercel.app/api?username=geuun&show_icons=true)
-
 </div>
 
 ---
