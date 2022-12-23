@@ -9,7 +9,7 @@
 <a href="mailto:jgk9612@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 <br>
 <a href="https://velog.io/@geun" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
-<a href="https://geuun.notion.site/About-Geun-5ee9dd329d524b63b5136468bc9300e2" target="_blank"><img src="https://img.shields.io/badge/Notion Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+<a href="https://about.geun.me" target="_blank"><img src="https://img.shields.io/badge/Notion Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
 ---
 
