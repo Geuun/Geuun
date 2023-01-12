@@ -69,17 +69,19 @@
 
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=geuun&show_icons=true&theme=dark"
+  srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=geuun&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=geuun&show_icons=true"
+  srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=geuun&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geuun&hide=jupyter%20notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- BUG
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=geuun&hide=jupyter%20notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 ---
 
